@@ -58,7 +58,7 @@ Contributions that come under this category:<br/>
 - Middleware explanations<br/>
 </details>
 <details>
-<summary>3. Blog Posts</summary><br/>
+<summary>3. Blog and articles</summary><br/>
 Contributions that come under this category:<br/>
 - Django success stories<br/>
 - Project case studies<br/>
@@ -86,7 +86,7 @@ Contributions that come under this category:<br/>
 - Website mockups<br/>
 </details>
 <details>
-<summary>5. Translation</summary><br/>
+<summary>5. Translations</summary><br/>
 Contributions that come under this category:<br/>
 - Documentation in regional languages<br/>
 - Setup guides<br/>
@@ -115,7 +115,14 @@ Few of the contributions merged in this repository, will directly and immediatel
 - Click the 'Fork' button at the top right of this page
 
 
-#### 2. Choose Your Contribution Area
+#### 2. Create or pick an issue
+- There might be issues available that matches your interest
+- If an issue is not assigned to anyone, drop a comment that you want to work it
+- Wait for the issue get assigned. Once assigned start working on it.
+- If you have something to contribute, first create an issue, wait for it to get it assigned
+to you before you start working on it.
+
+#### 3. Choose Your Contribution Area
 - Select the appropriate folder for your contribution
 - If no suitable folder exists, you can propose a new one
 
