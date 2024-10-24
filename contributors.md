@@ -1,1 +1,2 @@
 # No code Contributors list
+This list contains all the no code contributors that have used their valuable skills to contribute to Django India community in a way which is not usual for them. A big thankyou to all our no code contributors.
